@@ -1,3 +1,11 @@
+/build*
+/CMakeFiles*
+/Testing*
+
+*.ninja*
+*.user
+
+
 # Prerequisites
 *.d
 
